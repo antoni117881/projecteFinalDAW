@@ -1,4 +1,6 @@
 Capçalera
 BarraNav
+lincRegistre 
+LinkLogin
 Cos
 Peu pàgina
