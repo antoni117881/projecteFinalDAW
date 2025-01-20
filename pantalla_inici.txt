@@ -1,3 +1,4 @@
 Capçalera
+BarraNav
 Cos
 Peu pàgina
